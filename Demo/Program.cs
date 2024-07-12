@@ -50,9 +50,9 @@
             //int[,,] Arr3 = (int[,,])Array.CreateInstance(typeof(int), 7, 2, 3);
             #endregion
             #region Passing by out
-            int sum, multi;
-            SumMulti(5, 10, out sum, out multi);
-            Console.WriteLine($"Summation = {sum}, Multiplication = {multi}");
+            //int sum, multi;
+            //SumMulti(5, 10, out sum, out multi);
+            //Console.WriteLine($"Summation = {sum}, Multiplication = {multi}");
             #endregion
             #region Passing by params
             //int sumArr = SumArray(1, 2, 10, 20, 30, 40, 50);
