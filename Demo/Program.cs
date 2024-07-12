@@ -83,16 +83,16 @@
             //}
             #endregion
             #region Enums
-            Weekday = Weekdays.Sunday;
-            Console.WriteLine(Weekday);
-            Weekday = (Weekdays)7;
-            Console.WriteLine(Weekday);
+            //Weekday = Weekdays.Sunday;
+            //Console.WriteLine(Weekday);
+            //Weekday = (Weekdays)7;
+            //Console.WriteLine(Weekday);
             #endregion
             #region Struct
-            Point p1 = new();
-            Console.WriteLine($"P1.x = {p1.x}, P1.y = {p1.y}");
-            p1 = new(10, 20);
-            Console.WriteLine($"P1.x = {p1.x}, P1.y = {p1.y}");
+            //Point p1 = new();
+            //Console.WriteLine($"P1.x = {p1.x}, P1.y = {p1.y}");
+            //p1 = new(10, 20);
+            //Console.WriteLine($"P1.x = {p1.x}, P1.y = {p1.y}");
             #endregion
         }
     }
